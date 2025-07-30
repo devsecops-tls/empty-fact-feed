@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: empty-fact-feed
+fact:
+  api:
+    base-url: https://uselessfacts.jsph.pl
+    endpoint: /api/v2/facts/random
